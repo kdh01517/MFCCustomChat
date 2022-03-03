@@ -1,7 +1,6 @@
 # MFCCustomChat
 ## 사양
 - Windows 플랫폼만 지원
-- 64비트 지원
 - C++로 구현
 - 비동기 IO
 - DB 연동은 구현 되지 않음.
