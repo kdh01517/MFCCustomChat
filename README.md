@@ -16,3 +16,9 @@
 - 로그인 구현
 - 간단한 게임 구현
 - Redis 
+## 공부 내용 정리
+- Win32 API와 MFC에 대하여 : https://illunge.tistory.com/26?category=1002625
+- CWinApp와 CWnd클래스에 대하여 : https://illunge.tistory.com/27?category=1002625
+- MFC 활용 채팅 서버 개발 : https://illunge.tistory.com/29?category=1002625
+- Socket API 클래스화 작업 1단계 : https://illunge.tistory.com/30?category=1002625
+- Socket API 클래스화 작업 2단계 : https://illunge.tistory.com/31?category=1002625
